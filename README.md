@@ -2,7 +2,7 @@
 
 **Project UAS - Data Mining**  
 **Nama:** Eka Dwi Rohmadhoni  
-**NIM:** 1224160014 
+**NIM:** 1224160014 <br>
 **Kelas:** SI 24 P SIM-1
 
 ---
