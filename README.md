@@ -49,7 +49,7 @@ Proyek ini mengikuti seluruh tahapan dalam framework **CRISP-DM**, mulai dari Bu
 
 - **Google Sites (Portofolio):**  
   https://sites.google.com/global.ac.id/datascienseportofolioeka?usp=sharing
-- **Video Presentasi (YouTube):**
+- **Video Presentasi (YouTube):**<br>
   https://youtu.be/PPy86yFKFiM?si=h2A3RcR7ll5HHTB0
 
 ---
